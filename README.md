@@ -1,2 +1,2 @@
 # ozayturay.github.io
-Özay Turay'ın Kişisel GitHub Sayfası
+Özay Turay's Personal GitHub Page
